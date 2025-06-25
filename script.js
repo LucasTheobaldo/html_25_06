@@ -7,3 +7,12 @@ let chute;
 let idade;
 let nome;
 console.log (numero);
+
+
+let entrada = prompt("Digite um número inteiro:"); 
+numero = parseInt(entrada);
+if (Number.isInteger(numero)) {
+    console.log("Obrigado! Você digitou um inteiro.");
+} else {
+    console.log("Por favor, digite um número inteiro válido.");
+}
