@@ -2,8 +2,6 @@ alert ("Comando para mostrar um texto na tela, posso usar aspas duplas ou aspas 
 alert ("Ele é limitado ao clique no ok pelo usuário")
 alert ("Não é possível configurar seu tempo de permanência na tela")
 
-
-alert ("Comando para mostrar um texto na tela, posso usar aspas duplas ou aspas simples, mas siga este padrão em todo código")
 let numero = 25;
 let chute;
 let idade;
